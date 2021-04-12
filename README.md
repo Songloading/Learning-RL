@@ -7,3 +7,4 @@ Q-Learning:
 
 Deep Q-Network (DQN):
 - https://wanjun0511.github.io/2017/11/05/DQN/
+- https://zhuanlan.zhihu.com/p/21421729
