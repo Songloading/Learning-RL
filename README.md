@@ -14,3 +14,4 @@ Deep Q-Network (DQN):
 
 Value-based v.s Policy-based:
 - https://zhuanlan.zhihu.com/p/36494307
+- https://zhuanlan.zhihu.com/p/21725498
